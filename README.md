@@ -1,13 +1,48 @@
-# React + Vite
+# User Data Table using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Live Demo
+👉 [View Deployed Site](https://pkarthip91.github.io/user-datatable)
 
-Currently, two official plugins are available:
+## 📦 About This Project
+This is a React-based frontend application for managing and displaying user data with filtering and search functionality. It is deployed using GitHub Pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- React 19 with Hooks
+- Tailwind CSS for styling
+- Search and filter functionality
+- Responsive design
+- GitHub Pages deployment
 
-## Expanding the ESLint configuration
+## 🛠️ Installation & Setup
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# user-datatable
+### Prerequisites
+Make sure you have Node.js and npm installed on your machine.
+
+### 1️⃣ Clone the repository:
+```sh
+git clone https://github.com/pkarthip91/user-datatable.git
+cd user-datatable
+```
+
+### 2️⃣ Install dependencies:
+```sh
+npm install
+```
+
+### 3️⃣ Usage
+Run the development server:
+```sh
+npm run dev
+```
+
+Open your browser and navigate to:
+```
+http://localhost:5173
+```
+
+### 🚀 Deploy to GitHub Pages
+To deploy the project, run:
+```sh
+npm run deploy
+```
+
